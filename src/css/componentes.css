@@ -1,0 +1,20 @@
+
+body{
+    background-color: indianred;
+}
+
+#shiny-pokemon:hover{
+    background-color: #117A65 ;
+}
+
+
+.desactivate{
+    background: #8D92BB;
+    transition: 0.3s;
+}
+
+.activate{
+    background-color: red;
+    transition: 0.8s;
+}
+
