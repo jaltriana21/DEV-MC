@@ -18,7 +18,6 @@ const menuPortafolio = ()=>{
 
 const createHeader = ()=>{
     const setPerson = dataPortafolio();
-    console.log(setPerson);
     const wrapper = document.createElement('div');
     wrapper.id = 'wrapper-nav';
     wrapper.innerHTML =`<header class="l-header">
